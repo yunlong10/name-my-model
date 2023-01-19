@@ -33,7 +33,7 @@ def index():
 # Names:""".format(
 #         animal.capitalize()
 #     )
-def generate_prompt(animal):
+def generate_prompt(paper_title):
     return """Suggest a name for a model proposed by a paper.
 
 Paper: Pre-training of Deep Bidirectional Transformers for Language Understanding
@@ -42,5 +42,5 @@ Paper: Multi-modal Segment Assemblage Network for Ad Video Editing with Importan
 Names: MSAN
 Paper: {}
 Names:""".format(
-        animal.capitalize()
+        paper_title.capitalize()
     ) 
