@@ -1,6 +1,10 @@
 # Quickstart - Name my Model app
 
-This app is based on the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework.
+Name your model with this app!
+
+Enter the title of your paper or the original and lengthy model name that you proposed, you will get a cool name for your model.
+
+This app is based on the [OpenAI API](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework.
 
 ## Setup
 
