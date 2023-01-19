@@ -2,7 +2,12 @@
 
 Name your model with this app!
 
-Enter the title of your paper or the original and lengthy model name that you proposed, you will get a cool name for your model.
+Enter the title of your paper or a lengthy model name that you proposed, you will get a cool name for your model.
+
+| Name your Model App | Enter a paper title | Generate a name for your model |
+| :----:  | :----:        | :----:     | 
+| <div align=center> <img src=figs/p1.png width=80%/> </div> | <div align=center> <img src=figs/p2.png width=80%/> </div> | <div align=center> <img src=figs/p3.png width=80%/> </div>  |
+
 
 This app is based on the [OpenAI API](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework.
 
